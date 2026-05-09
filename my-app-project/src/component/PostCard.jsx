@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 function PostCard({ post, onLike }) {
   return (
     <div>
